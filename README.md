@@ -1,8 +1,10 @@
+ <div align="center">
 ![](giphy.gif) 
 
 Hi 👋
 
 I'm Salim
+ </div>
 <hr style="border:2px solid gray"> </hr>
 
 💻 Tech Stack
