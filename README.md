@@ -1,13 +1,13 @@
 
 ![](giphy.gif) 
 
-<h1> Hi 👋
-
-I'm Salim
-</h1>
 <hr style="border:2px solid gray"> </hr>
 
 <div align="center">
+ <h1> Hi 👋
+
+I'm Salim
+</h1>
  <h3>
   🖥️ I am a full stack developer based in London, United Kingdom.
 </h3>  
