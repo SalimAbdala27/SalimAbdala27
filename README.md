@@ -1,9 +1,10 @@
 
 ![](giphy.gif) 
 
-Hi 👋
+<h1> Hi 👋
 
 I'm Salim
+</h1>
 <hr style="border:2px solid gray"> </hr>
 
 💻 Tech Stack
