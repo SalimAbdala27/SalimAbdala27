@@ -4,8 +4,10 @@
 <hr style="border:2px solid gray"> </hr>
 
 <div align="center">
- <h1> Hi 👋
-
+<h1> 
+  Hi 👋
+</h1>
+<h1>
 I'm Salim
 </h1>
  <h3>
