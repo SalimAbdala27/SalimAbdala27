@@ -26,7 +26,7 @@ I'm Salim
 
 <hr style="border:2px solid gray"> </hr>
 
-💻  Tech Stack: 
+💻    Tech Stack: 
 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
