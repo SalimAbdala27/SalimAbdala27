@@ -1,7 +1,6 @@
 ![](giphy.gif)
 
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
+<h1 align='center'> Hi! :wave:</h1> <p align='center'>
 I'm Salim.
 </p> 
 <hr style="border:2px solid gray"> </hr>
