@@ -29,6 +29,12 @@ I'm Salim
     <img src = "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
+ <div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalimAbdala27&show_icons=true&theme=tokyonight"/>
+</a>
+ </div>
+
 
 <!--
 **SalimAbdala27/SalimAbdala27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
