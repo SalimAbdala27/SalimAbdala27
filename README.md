@@ -7,7 +7,16 @@ I'm Salim
 </h1>
 <hr style="border:2px solid gray"> </hr>
 
-💻 Tech Stack
+<div align="center">
+ <h3>
+  🖥️ I am a full stack developer based in London, United Kingdom.
+  🎓 I have graduated the _nology bootcamp as well as BSc in Mathematics at Royal Holloway University.
+  📓 I am currently learning Next.js and Tailwind CSS.
+  ⚙️ I am also currently working on an Instagram clone currently.
+ </h3>
+</div>
+
+💻  Tech Stack: 
 
  <div align="center">
     <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
