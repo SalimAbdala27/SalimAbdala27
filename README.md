@@ -20,7 +20,7 @@ I'm Salim
   📓 I am currently learning Next.js and Tailwind CSS.
 </h3>      
 <h3>
-  ⚙️ I am also currently working on an Instagram clone currently.
+  ⚙️ I am also currently working at LandHawk.
 </h3>
 </div>
 
